@@ -1,0 +1,184 @@
+
+body{
+    background-color:rgb(250, 228, 200)  
+}
+
+.circle {
+    background-color:rgb(228, 175, 106);
+
+    height:1000px;
+    width: 1000px;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px black;
+}
+.crust {
+    background-color:rgb(221, 51, 21);
+    height:350px;
+    width: 350px;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px black;
+}
+
+.cheese{
+    background-color: rgb(241, 216, 102);
+    height:775px;
+    width: 775px;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.Pepp1{
+    background-color: rgba(240, 27, 27, 0.842);
+    height:175px;
+    width: 175px;
+    
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:35em;
+    right: 0;
+    margin:auto;
+    border-radius: 50%;
+} 
+
+.Pepp2{
+
+    background-color: rgba(240, 27, 27, 0.842);
+    height:175px;
+    width: 175px;
+    
+    position: absolute;
+    top:0;
+    left:35em;
+    bottom:0em;
+    right: 0;
+    margin:auto;
+    border-radius: 50%;
+} 
+
+.Pepp3 {
+    background-color: rgba(240, 27, 27, 0.842);
+    height:175px;
+    width: 175px;
+    
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0em;
+    right: 35em;
+    margin:auto;
+    border-radius: 50%;
+}
+
+.Pepp4{
+    background-color: rgba(240, 27, 27, 0.842);
+    height:175px;
+    width: 175px;
+    
+    position: absolute;
+    top:35em;
+    left:0;
+    bottom:0;
+    right: 0;
+    margin:auto;
+    border-radius: 50%;
+}
+.olive1{
+    background-color: black;
+    height:75px;
+    width: 75px;
+    
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:32em;
+    right: 25em;
+    margin:auto;
+    border-radius: 50%;
+} 
+
+.olive2{
+    background-color: black;
+    height:75px;
+    width: 75px;
+    
+    position: absolute;
+    top:35em;
+    left:0;
+    bottom:0;
+    right: 0;
+    margin:auto;
+    border-radius: 50%;
+}
+.olive3{
+background-color: black;
+    height:75px;
+    width: 75px;
+    
+    position: absolute;
+    top:0;
+    left:35em;
+    bottom:0;
+    right: 0;
+    margin:auto;
+    border-radius: 50%;
+}
+.olive4{
+    background-color: black;
+        height:75px;
+        width: 75px;
+        
+        position: absolute;
+        top:0;
+        left:0;
+        bottom:2em;
+        right: 35em;
+        margin:auto;
+        border-radius: 50%;
+}
+.olive5{
+    background-color: black;
+        height:75px;
+        width: 75px;
+        
+        position: absolute;
+        top:9em;
+        left:0em;
+        bottom:0;
+        right: 0;
+        margin:auto;
+        border-radius: 50%;
+}
+
+.olive6{
+    background-color: black;
+        height:75px;
+        width: 75px;
+        
+        position: absolute;
+        top:0em;
+        left:25em;
+        bottom:30em;
+        right: 0em;
+        margin:auto;
+        border-radius: 50%;
+}
